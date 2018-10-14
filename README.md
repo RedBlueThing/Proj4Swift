@@ -10,7 +10,7 @@
 To install with [Carthage](https://github.com/Carthage/Carthage), add Proj4Swift to your Cartfile:
 
 ```
-github "victorlin/Proj4Swift"
+github "fangpenlin/Proj4Swift"
 ```
 
 ## Usage
